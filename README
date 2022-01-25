@@ -1,0 +1,33 @@
+ ____ _____ ____  _____    _    __  __ _____ ____  
+/ ___|_   _|  _ \| ____|  / \  |  \/  | ____|  _ \ 
+\___ \ | | | |_) |  _|   / _ \ | |\/| |  _| | |_) |
+ ___) || | |  _ <| |___ / ___ \| |  | | |___|  _ < 
+|____/ |_| |_| \_\_____/_/   \_\_|  |_|_____|_| \_\
+                                                   
+    _    ____ ____ ___ ____ _____  __     _____   ___   _ 
+   / \  / ___/ ___|_ _/ ___|_   _| \ \   / / _ \ / _ \ / |
+  / _ \ \___ \___ \| |\___ \ | |    \ \ / / | | | | | || |
+ / ___ \ ___) |__) | | ___) || |     \ V /| |_| | |_| || |
+/_/   \_\____/____/___|____/ |_|      \_/(_)___(_)___(_)_|
+
+Welcome to Streamer Assist V.0.0.1. This is a work-in-progress build that I have been
+wanting to work on for a while and finally have something resembling working code that
+I am happy to share. This program is to help automate some information that streamers
+might want to help make informed decisions on how to make their streams better, assist
+streamers by automating the giveaway process by using intelligent database making, and 
+will one day be a one stop shop to get in contact with the viewers, understanding them,
+and reacting accordingly.
+
+As was mentioned this is a work-in-progress build and needs some tweaks to make it better.
+This is by no shred of the imagination the final product. Currently, I am working on several 
+known issues that I plan on working through. The plan currently is to get 3 things up and 
+running before the next commit on this repo. 1) Exception handling on classes will be a #1
+priority. 2) Working on getting the giveaway.cc file some much needed finishing with database 
+creation inside the program being one of my top priorities. 3) Working on adding and deprecating
+some of the class variables and methods to help streamline the usages of the program.
+
+Any suggestions are always welcome and if you would like to use it while I work on it, download the
+files (Viewer.h, Viewer.cc, Prize.cc, Prize.h, and Makefile) and put it in your /include directory. 
+
+Again, any support would be great, this is the culmination of my time as a CSCI major so any comments,
+suggestions, or questions are welcome. Thank you!
